@@ -11,17 +11,11 @@ main:
   - title: "Projects"
     url: /projects/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Faculty Advisors"
+    url: /advisors/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Industry Partners"
+    url: /partners/
         
-  - title: "Blog Posts"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Posts"
+    url: /posts/
