@@ -12,7 +12,7 @@ title                    : "Engineering Physics Propulsion Lab"
 title_separator          : "-"
 name                     : &name "Engineering Physics Propulsion Lab"
 description              : &description "personal description"
-url                      : https://eppl-erau-db.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://eppl.us # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "eppl-erau-db/eppl-erau-db.github.io"
 
