@@ -21,7 +21,7 @@ repository               : "eppl-erau-db/eppl-erau-db.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "EPPL.png"
   name             : "EPPL@ERAU"
   pronouns         : # example: "she/her"  
   bio              : "An undergraduate research lab pushing the boundaries of what's possible."
