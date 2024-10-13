@@ -12,8 +12,8 @@ main:
     url: /publications/
 
   - title: "Faculty Advisors"
-    url: /faculty_advisors/    
+    url: /advisors/    
     
   - title: "Industry Partners"
-    url: /industry_partners/
+    url: /partners/
         
