@@ -12,5 +12,5 @@ The Engineering Physics Propulsion Lab is an undergraduate research lab with var
 
 ![About Image](/images/IMG_9810.JPG)
 
-
+Add more description about the lab.
 
