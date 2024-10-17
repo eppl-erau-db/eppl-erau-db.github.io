@@ -226,8 +226,8 @@ collections:
   stnews:
     output: true
     permalink: /:collection/:path/
-  labUpdates
-    output:true
+  labUpdates:
+    output: true
     permalink: /:collection/:path/
 
 
