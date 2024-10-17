@@ -24,7 +24,7 @@ author:
   avatar           : "EPPL_2.png"
   name             : "EPPL @ ERAU"
   pronouns         : # example: "she/her"  
-  bio              : "An undergraduate research lab pushing the boundaries of what's possible."
+  bio              : "A research lab pushing the boundaries of what's possible."
   location         : "Daytona Beach, FL"
   employer         : "Embry-Riddle Aeronautical University"
   uri              : # URL
@@ -223,7 +223,7 @@ collections:
   partners:
     output: true
     permalink: /:collection/:path/
-  s&tNews:
+  stnews:
     output: true
     permalink: /:collection/:path/
 
@@ -269,7 +269,7 @@ defaults:
   # _featured science and technology
   - scope:
       path: ""
-      type: s&tNews
+      type: stnews
     values:
       layout: single
       author_profile: true
