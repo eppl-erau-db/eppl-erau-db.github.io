@@ -2,7 +2,7 @@
 **Academic Pages is a Github Pages template for academic websites.**
 
 
- I made changes
+ I made changes -Caitlin (hi)
 
 # Getting Started
 
