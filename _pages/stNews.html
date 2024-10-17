@@ -7,10 +7,10 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.publication_category %}
-  {% for category in site.publication_category  %}
+{% if site.stnews_category %}
+  {% for category in site.stnews_category  %}
     {% assign title_shown = false %}
-    {% for post in site.publications reversed %}
+    {% for post in site.stnews reversed %}
       {% if post.category != category[0] %}
         {% continue %}
       {% endif %}
