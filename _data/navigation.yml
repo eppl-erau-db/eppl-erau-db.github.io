@@ -8,6 +8,9 @@ main:
   - title: "Projects"
     url: /projects/    
 
+  - title: "Lab News"
+    url: /labUpdates/
+
   - title: "Publications"
     url: /publications/
 

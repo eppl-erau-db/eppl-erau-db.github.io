@@ -226,6 +226,9 @@ collections:
   stnews:
     output: true
     permalink: /:collection/:path/
+  labUpdates
+    output:true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -266,12 +269,21 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _featured science and technology
+  # _featured science and technology news
   - scope:
       path: ""
       type: stnews
     values:
       layout: single
+      author_profile: true
+      share: true
+      comments: true
+  #_labUpdates
+  - scope:
+      path: ""
+      type: labUpdates
+    values:
+      layout: sinlge
       author_profile: true
       share: true
       comments: true
