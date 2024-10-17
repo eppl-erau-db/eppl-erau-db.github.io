@@ -82,6 +82,15 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+#stnews Category - The following lists the stnews categories and their headings
+stnews_category:
+  survey:
+    title: 'Interest Form'
+  robotics:
+    title: 'Robotics'
+  aerospace:
+    title: 'Aerospace'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
