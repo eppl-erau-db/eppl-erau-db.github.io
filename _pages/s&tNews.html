@@ -1,0 +1,14 @@
+# attempting to add a "Featured Science and Technology" page
+---
+layout: archive
+title: "Featured Science and Technology"
+permalink: /featured_science_and_technology_page/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.projects %}
+  {% include archive-single.html %}
+{% endfor %}
