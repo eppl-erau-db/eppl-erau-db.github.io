@@ -223,6 +223,9 @@ collections:
   partners:
     output: true
     permalink: /:collection/:path/
+  s&tNews:
+    output: true
+    permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
@@ -263,10 +266,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _featured science and technology page
+  # _featured science and technology
   - scope:
       path: ""
-      type: news
+      type: s&tNews
     values:
       layout: single
       author_profile: true
