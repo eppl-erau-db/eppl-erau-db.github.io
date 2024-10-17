@@ -1,0 +1,10 @@
+Directions for adding another webpage
+
+Step 1: Add a collection in the configuration code for the new webpage (mimic the other pages)
+Step 2: Beneath where the collections are, add a page following the same format at the others; make sure the "type" is the same name as your new collection
+Step 3: Create an html (or md, it doesn't matter) for your webpage title
+    follow the same format as the "projects.html" file but make sure the site.____ is site.[new collection name]
+    permalink should also be the same as the collection/page
+Step 4: go to "_data" -> "navigation.yml"
+    add a title: [the title you entered in step 2]
+    add a url that matches your permalink
