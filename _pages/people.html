@@ -11,13 +11,13 @@ author_profile: true
 {% for category_name in ordered_categories %}
   {% case category_name %}
     {% when "faculty" %}
-      <h2>Faculty</h2><hr />
+      <h4>Faculty</h4><hr />
     {% when "phd" %}
-      <h2>PhD Students</h2><hr />
+      <h4>PhD Students</h4><hr />
     {% when "master" %}
-      <h2>Masters Students</h2><hr />
+      <h4>Masters Students</h4><hr />
     {% when "under" %}
-      <h2>Undergraduate Students</h2><hr />
+      <h4>Undergraduate Students</h4><hr />
   {% endcase %}
 
   {% for post in site.people %}
