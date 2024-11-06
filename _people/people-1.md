@@ -7,7 +7,8 @@ excerpt: "<div style='display: flex; align-items: center;'>
             <div>
               <em>Professor</em><br/>
               College of Arts and Sciences<br/>
-              <strong>Physical Sciences Department</strong>
+              <strong>Physical Sciences Department, ERAU</strong><br/>
+              Ph.D. - Doctor of Philosophy in Mathematics, Institute of Control Science
             </div>
           </div>"
 ---
