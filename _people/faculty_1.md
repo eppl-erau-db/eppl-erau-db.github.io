@@ -1,9 +1,10 @@
 ---
-title: "Dr. Drakunov"
+title: "Dr. faculty"
 collection: people
+excerpt: "The leader of our lab <br/><img src='/images/drakunov_headshot.png'>"
 category: faculty
-permalink: /people/faculty_1
-excerpt: 'The leader of our lab <br/><img src='/images/drakunov_headshot.png'>'
 ---
 
-Description of Dr. Drakunov
+Description of Dr. faculty
+category: faculty
+permalink: /people/faculty_1
