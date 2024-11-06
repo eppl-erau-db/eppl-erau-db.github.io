@@ -1,6 +1,6 @@
 ---
 title: "Article/Post Number 2"
-exerpt: "Short description of post number 1<br/><img src='/images/project1_image.png'>"
+excerpt: "Short description of post number 1<br/><img src='/images/project1_image.png'>"
 collection: s&tNews
 ---
 
