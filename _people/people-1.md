@@ -1,8 +1,8 @@
 ---
 title: "Dr. faculty"
 collection: people
-excerpt: "The leader of our lab <br/><img src='/images/drakunov_headshot.png'>"
 category: faculty
+excerpt: "The leader of our lab"
 ---
 
 Description of Dr. faculty
