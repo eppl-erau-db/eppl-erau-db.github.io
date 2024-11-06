@@ -7,10 +7,14 @@ author_profile: true
 
 {% include base_path %}
 
-{% assign categories = site.people_category | sort: "order" %}
+{% for post in site.people%}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!--{% assign categories = site.people_category | sort: "order" %}-->
 
 <!-- Define the order of categories manually -->
-{% assign ordered_categories = "faculty,phd,master,under" | split: "," %}
+<!-- {% assign ordered_categories = "faculty,phd,master,under" | split: "," %}
 
 {% for category_name in ordered_categories %}
   {% assign category = site.people_category[category_name] %}
@@ -24,3 +28,4 @@ author_profile: true
     {% endfor %}
   {% endif %}
 {% endfor %}
+-->
