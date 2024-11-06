@@ -98,7 +98,7 @@ people_category:
   phd:
     title: 'PhD Students'
   master:
-    title: 'Master's Students'
+    title: 'Master''s Students'
   under:
     title: 'Undergraduate Students'
 
