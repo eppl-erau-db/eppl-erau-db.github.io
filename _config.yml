@@ -82,7 +82,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-#stnews Category - The following lists the stnews categories and their headings
+#n Science and Technology News Category - The following lists the stnews categories and their headings
 stnews_category:
   survey:
     title: 'Interest Form'
@@ -90,6 +90,17 @@ stnews_category:
     title: 'Robotics'
   aerospace:
     title: 'Aerospace'
+
+# People Category - The following lists the people categories and their headings
+people_category:
+  faculty:
+    title: 'Faculty'
+  phd:
+    title: 'PhD Students'
+  master:
+    title: 'Master's Students'
+  under:
+    title: 'Undergraduate Students'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -226,7 +237,7 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  advisors:
+  people:
     output: true
     permalink: /:collection/:path/
   partners:
@@ -292,14 +303,14 @@ defaults:
       path: ""
       type: labUpdates
     values:
-      layout: sinlge
+      layout: single
       author_profile: true
       share: true
       comments: true
   # _advisors
   - scope:
       path: ""
-      type: advisors
+      type: people
     values:
       layout: single
       author_profile: true
