@@ -4,29 +4,25 @@ title: "People"
 permalink: /people/
 author_profile: true
 ---
-
 {% include base_path %}
 
-
-{% for post in site.people %}
-  {% include archive-single.html %}
-{% endfor %}
-
-<!--{% assign categories = site.people_category | sort: "order" %}-->
-
-<!-- Define the order of categories manually -->
-<!-- {% assign ordered_categories = "faculty,phd,master,under" | split: "," %}
+{% assign ordered_categories = "faculty,phd,master,under" | split: "," %}
 
 {% for category_name in ordered_categories %}
-  {% assign category = site.people_category[category_name] %}
-  {% if category %}
-    <h2>{{ category.title }}</h2>
-    <hr />
-    {% for post in site.people %}
-      {% if post.category == category_name %}
-        {% include archive-single.html %}
-      {% endif %}
-    {% endfor %}
-  {% endif %}
+  {% case category_name %}
+    {% when "faculty" %}
+      <h2>Faculty</h2><hr />
+    {% when "phd" %}
+      <h2>PhD Students</h2><hr />
+    {% when "master" %}
+      <h2>Masters Students</h2><hr />
+    {% when "under" %}
+      <h2>Undergraduate Students</h2><hr />
+  {% endcase %}
+
+  {% for post in site.people %}
+    {% if post.category == category_name %}
+      {% include archive-single.html %}
+    {% endif %}
+  {% endfor %}
 {% endfor %}
--->
