@@ -2,7 +2,15 @@
 title: "Bryan Gonzalez"
 collection: people
 category: master
-excerpt: "The leader of our lab"
+excerpt: "<div style='display: flex; align-items: center;'>
+            <img src='/images/bio-photo.jpg' style='border: 2px solid #ccc; border-radius: 10px; width: 25%; margin-right: 1rem;'>
+            <div>
+              <em>Lead Laboratory Manager</em><br/>
+              College of Engineering<br/>
+              <strong>Mechanical Engineering Department, ERAU</strong><br/>
+              B.S. - Mechanical Engineering, M.S. - Mechanical Engineering
+            </div>
+          </div>"
 ---
-permalink: /people/master_1
-Description of Bryan
+
+A description of Bryan coming soon!

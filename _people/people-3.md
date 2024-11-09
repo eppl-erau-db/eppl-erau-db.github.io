@@ -1,8 +1,16 @@
 ---
-title: "PhD Student"
+title: "Jose Castelblanco"
 collection: people
-category: phd
-excerpt: "The leader of our lab"
+category: master
+excerpt: "<div style='display: flex; align-items: center;'>
+            <img src='/images/bio-photo.jpg' style='border: 2px solid #ccc; border-radius: 10px; width: 25%; margin-right: 1rem;'>
+            <div>
+              <em>Assistant Laboratory Manager</em><br/>
+              College of Engineering<br/>
+              <strong>Mechanical Engineering Department, ERAU</strong><br/>
+              B.S. - Engineering Physics, M.S. - Mechanical Engineering
+            </div>
+          </div>"
 ---
-permalink: /people/phd_1
-Description of PhD student
+
+A description of Jose coming soon!

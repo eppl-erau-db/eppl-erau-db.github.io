@@ -6,7 +6,7 @@ excerpt: "<div style='display: flex; align-items: center;'>
             <img src='/images/rodriguez.jpg' style='border: 2px solid #ccc; border-radius: 10px; width: 25%; margin-right: 1rem;'>
             <div>
             <div style='flex-basis: 100%;'>
-              <em>Lab Member</em><br/>
+              <em>Principal Investigator</em><br/>
               College of Arts and Sciences & Engineering <br/>
               <strong>Physical Sciences & Aerospace Engineering Department, ERAU</strong><br/>
               B.S. - Engineering Physics & Aerospace Engineering
@@ -14,4 +14,4 @@ excerpt: "<div style='display: flex; align-items: center;'>
           </div>"
 ---
 
-Description of Gabe
+A description of Gabriel coming soon!

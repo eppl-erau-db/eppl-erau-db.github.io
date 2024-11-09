@@ -1,5 +1,5 @@
 ---
-title: "Justin Hartland"
+title: "Daniel Golan"
 collection: people
 category: under
 excerpt: "<div style='display: flex; align-items: center;'>
@@ -7,10 +7,10 @@ excerpt: "<div style='display: flex; align-items: center;'>
             <div>
               <em>Principal Investigator</em><br/>
               College of Engineering<br/>
-              <strong>Aerospace Engineering Department, ERAU</strong><br/>
-              B.S. - Aerospace Engineering
+              <strong>Mechanical Engineering Department, ERAU</strong><br/>
+              B.S. - Mechanical Engineering
             </div>
           </div>"
 ---
 
-A description of Justin coming soon!
+A description of Daniel coming soon!
