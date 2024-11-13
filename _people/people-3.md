@@ -13,4 +13,4 @@ excerpt: "<div style='display: flex; align-items: center;'>
           </div>"
 ---
 
-I’m a 9-year U.S. Army veteran. Five years ago, I made the leap from military service to chase my passion for physics at Embry-Riddle Aeronautical University, where I earned my Bachelor’s in Engineering Physics, focusing on Spacecraft Instrumentation. Along the way, I discovered a deep interest in AI and robotics, which quickly became the center of my studies. Now, I’m continuing this journey by working toward a Master’s in Mechanical Engineering, specializing in Robotics and Autonomous Systems.
+Jose is a 9-year U.S. Army veteran. Five years ago, he made the leap from military service to chase his passion for physics at Embry-Riddle Aeronautical University, where he earned his Bachelor’s in Engineering Physics, focusing on Spacecraft Instrumentation. Along the way, he discovered a deep interest in AI and robotics, which quickly became the center of his studies. Now, he is continuing this journey by working toward a Master’s in Mechanical Engineering, specializing in Robotics and Autonomous Systems.
