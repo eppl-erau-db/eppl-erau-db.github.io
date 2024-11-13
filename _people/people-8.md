@@ -7,7 +7,7 @@ excerpt: "<div style='display: flex; align-items: center;'>
             <div>
               <em>Lab Member</em><br/>
               College of Engineering<br/>
-              <strong>Mechanical Engineering Department, ERAU</strong><br/>
+              Mechanical Engineering Department, ERAU<br/>
               B.S. - Mechanical Engineering
             </div>
           </div>"

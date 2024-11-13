@@ -7,7 +7,7 @@ excerpt: "<div style='display: flex; align-items: center;'>
             <div>
               <em>Principal Investigator</em><br/>
               College of Engineering<br/>
-              <strong>Aerospace Engineering Department, ERAU</strong><br/>
+              Aerospace Engineering Department, ERAU<br/>
               B.S. - Aerospace Engineering
             </div>
           </div>"

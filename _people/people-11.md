@@ -7,7 +7,7 @@ excerpt: "<div style='display: flex; align-items: center;'>
             <div>
               <em>Lab Member</em><br/>
               College of Arts and Science<br/>
-              <strong>Physical Sciences Department, ERAU</strong><br/>
+              Physical Sciences Department, ERAU<br/>
               B.S. - Engineering Physics
             </div>
           </div>"

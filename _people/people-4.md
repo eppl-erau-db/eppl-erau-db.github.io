@@ -8,7 +8,7 @@ excerpt: "<div style='display: flex; align-items: center;'>
             <div style='flex-basis: 100%;'>
               <em>Principal Investigator</em><br/>
               College of Arts and Sciences & Engineering <br/>
-              <strong>Physical Sciences & Aerospace Engineering Department, ERAU</strong><br/>
+              Physical Sciences & Aerospace Engineering Department, ERAU<br/>
               B.S. - Engineering Physics & Aerospace Engineering
             </div>
           </div>"

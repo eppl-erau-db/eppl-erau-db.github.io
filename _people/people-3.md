@@ -7,7 +7,7 @@ excerpt: "<div style='display: flex; align-items: center;'>
             <div>
               <em>Assistant Laboratory Manager</em><br/>
               College of Engineering<br/>
-              <strong>Mechanical Engineering Department, ERAU</strong><br/>
+              Mechanical Engineering Department, ERAU<br/>
               B.S. - Engineering Physics, M.S. - Mechanical Engineering
             </div>
           </div>"
