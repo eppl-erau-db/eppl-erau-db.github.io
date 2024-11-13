@@ -1,5 +1,5 @@
 ---
-title: "Project Number 1"
+title: "AIRBUD"
 excerpt: "Short description of project number 1<br/><img src='/images/project1_image.png'>"
 collection: projects
 ---
