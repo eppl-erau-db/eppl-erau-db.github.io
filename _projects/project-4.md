@@ -4,6 +4,10 @@ excerpt: "An Open-Sourced Website for Controls Testing"
 collection: projects
 ---
 
-This is the first project
+## Description
 
-Add project details and link to download the abstract. 
+EasyControls Description
+
+## Links
+
+EasyControls Links
