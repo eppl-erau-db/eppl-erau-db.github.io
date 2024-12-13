@@ -11,7 +11,3 @@ Swarm of Unmanned Aerial Vehicles using Emergence (SUAVE) efficiently creates a 
 ## Links
 
 - [SPIE Publication]()
-
-This is the first project
-
-Add project details and link to download the abstract. 
