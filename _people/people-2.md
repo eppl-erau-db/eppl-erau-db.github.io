@@ -13,4 +13,4 @@ excerpt: "<div style='display: flex; align-items: center;'>
           </div>"
 ---
 
-A description of Bryan coming soon!
+A description of Bryan is coming soon!

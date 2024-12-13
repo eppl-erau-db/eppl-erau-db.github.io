@@ -21,7 +21,7 @@ repository               : "eppl-erau-db/eppl-erau-db.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "EPPL_2.png"
+  avatar           : "avatar.png"
   name             : "EPPL @ ERAU"
   pronouns         : # example: "she/her"  
   bio              : "A research lab pushing the boundaries of what's possible."
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : # URL
+  googlescholar    : # URL - Add Drakunov's google scholar
   impactstory      : # URL
   orcid            : # URL
   semantic         : # URL

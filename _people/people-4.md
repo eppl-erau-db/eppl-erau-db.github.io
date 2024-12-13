@@ -14,4 +14,4 @@ excerpt: "<div style='display: flex; align-items: center;'>
           </div>"
 ---
 
-A description of Gabriel coming soon!
+Gabriel is a senior, graduating in May of 2025 with dual degrees in Engineering Physics and Aerospace Engineering. Upon graduating, he will be joining MIT's Lincoln Laboraty as a summer research intern and continuing his education with a master's with in a concentration in robotics. 
