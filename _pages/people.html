@@ -6,7 +6,7 @@ author_profile: true
 ---
 {% include base_path %}
 
-{% assign ordered_categories = "faculty,phd,master,under" | split: "," %}
+{% assign ordered_categories = "faculty,phd,master,under,former" | split: "," %}
 
 {% for category_name in ordered_categories %}
   {% case category_name %}
