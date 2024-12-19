@@ -1,7 +1,7 @@
 ---
 title: "The Jetson Orin Nano Super"
-collection: stnews
 excerpt: "An exciting upgrade to NVIDIA's Jetson lineup, perfect for embodied AI projects."
+collection: stnews
 ---
 
 The NVIDIA Jetson Orin Nano Super is a game-changer in the world of embedded AI and robotics. With increased VRAM and a more affordable price point, this upgrade is set to increase our lab's prototyping capabilities and individual projects. We often start with an idea, and are eager to get to work, even before funding is allocated. Single-board computers like this are extremely useful for these phases, and are often continually used. 

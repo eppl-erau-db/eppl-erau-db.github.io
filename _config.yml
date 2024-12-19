@@ -239,7 +239,7 @@ collections:
   stnews:
     output: true
     permalink: /:collection/:path/
-  labUpdates:
+  labnews:
     output: true
     permalink: /:collection/:path/
 
@@ -291,10 +291,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  #_labUpdates
+  #_labnews
   - scope:
       path: ""
-      type: labUpdates
+      type: labnews
     values:
       layout: single
       author_profile: true
