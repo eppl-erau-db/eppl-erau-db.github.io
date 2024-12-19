@@ -1,11 +1,7 @@
 ---
 title: "Interest Form"
 collection: stnews
-excerpt: "Add '>"
+excerpt: "This Post Includes a Interest Form for This Page"
 ---
-https://forms.gle/uyYakmsEidXg5oZt9
 
-This is the first project post
-
-
-Add project details and link to download the abstract. 
+Lab members, you can follow this [link](https://forms.gle/uyYakmsEidXg5oZt9) to add news articles to this page!
