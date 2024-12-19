@@ -124,17 +124,15 @@ redirect_from:
   .contact a { text-decoration: none; color: #0066cc; }
   .contact a:hover { text-decoration: underline; }
   .three-columns {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 10px; /* Reduced gap for better spacing */
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* Three equal columns */
+  gap: 10px; /* Spacing between items */
 }
 
 .three-columns li {
-  flex: 1 1 calc(33.333% - 10px); /* Precisely one-third minus the gap */
-  list-style: disc; /* Add bullet points */
-  font-size: 0.9em; /* Decrease font size */
-  margin-left: 20px; /* Indent the bullet points slightly */
-  margin-bottom: 10px; /* Add spacing between rows */
+  list-style: disc;
+  font-size: 0.9em;
+  margin-left: 20px;
 }
 
 </style>
