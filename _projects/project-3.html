@@ -4,10 +4,49 @@ excerpt: "A Drone Swarm for GPS-Denied Locations"
 collection: projects
 ---
 
-## Description
+<div class="suave">
+    <h2>Description</h2>
 
-Swarm of Unmanned Aerial Vehicles using Emergence (SUAVE) efficiently creates a map in GPS-denied locations using Simultaneous Localization and Mapping (SLAM). Each drone is outfitted with a Lidar and an Intel Realsense Camera, which will be used to develop a high-fidelity infrared 3D map of an area without the need for GPS. Upon completion of each flight, the point clouds made through photogrammetry on each drone will be recorded and fused, creating a map with higher precision and accuracy. The use of the swarm is to generate this map from multiple points of view so that shadow effects can be negated and a more populated, dense map can be produced in respect to one drone’s map. To address localization with no GPS, the onboard IMU suite will be used to track relative position, while the onboard camera will track the local position. These two forms of localization, when coupled, allow for autonomous flights in lieu of GPS localization. This manuscript demonstrates the differences between one, three, and five fused maps during autonomous test flights on an Unmanned Aerial System (UAS) with a lack of GPS.
+    <p>
+        Swarm of Unmanned Aerial Vehicles using Emergence (SUAVE) efficiently creates a map in GPS-denied locations using Simultaneous Localization and Mapping (SLAM). Each drone is outfitted with a Lidar and an Intel Realsense Camera, which will be used to develop a high-fidelity infrared 3D map of an area without the need for GPS. Upon completion of each flight, the point clouds made through photogrammetry on each drone will be recorded and fused, creating a map with higher precision and accuracy. The use of the swarm is to generate this map from multiple points of view so that shadow effects can be negated and a more populated, dense map can be produced in respect to one drone’s map. To address localization with no GPS, the onboard IMU suite will be used to track relative position, while the onboard camera will track the local position. These two forms of localization, when coupled, allow for autonomous flights in lieu of GPS localization. This manuscript demonstrates the differences between one, three, and five fused maps during autonomous test flights on an Unmanned Aerial System (UAS) with a lack of GPS.
+    </p>
 
-## Links
+    <h2>Links</h2>
 
-- [SPIE Publication]()
+    <ul class="suave_links">
+        <li><a href="https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13055/130550O/Swarm-UAVs-for-area-mapping-in-GPS-denied-locations/10.1117/12.3013898.short" target="_blank">SPIE Publication</a></li>
+    </ul>
+
+    <h2>Media</h2>
+
+    <div class="suave-image-2">
+        <img src="/images/suave_2.png" alt="SUAVE 2" style="width:70%; max-width:800px; margin:auto; display:block;" />
+        <p class="caption">SUAVE Experimental Data</p>
+    </div>
+
+    <div class="suave-image-1">
+        <img src="/images/suave_1.png" alt="SUAVE 1" style="width:70%; max-width:800px; margin:auto; display:block;" />
+        <p class="caption">One of the drones part of the swarm</p>
+    </div>
+
+    <div class="suave-image-3">
+        <img src="/images/suave_3.png" alt="SUAVE 3" style="width:70%; max-width:800px; margin:auto; display:block;" />
+        <p class="caption">Testing in the Micaplex</p>
+    </div>
+
+    <div class="suave-image-4">
+        <img src="/images/suave_4.png" alt="SUAVE 4" style="width:70%; max-width:800px; margin:auto; display:block;" />
+        <p class="caption">Post Flight Fusion of 3 Point Clouds</p>
+    </div>
+
+</div>
+
+<style>
+    .suave { font-family: Arial, sans-serif; line-height: 1.6; }
+    .suave-image-1 img, .suave-image-2 img { border: 1px solid #ddd; border-radius: 4px; }
+    .caption { text-align: center; font-style: italic; font-size: 0.9em; margin-top: 5px; }
+    .suave_links { list-style-type: none; padding: 0; }
+    .suave_links li { margin: 5px 0; }
+    .suave_links a { text-decoration: none; color: #0066cc; }
+    .suave_links a:hover { text-decoration: underline; }
+</style>
