@@ -124,13 +124,16 @@ redirect_from:
   .contact a { text-decoration: none; color: #0066cc; }
   .contact a:hover { text-decoration: underline; }
   .three-columns {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1%; /* Adjust spacing between items */
-  }
-  .three-columns li {
-    flex: 1 1 calc(33% - 1%); /* Set width to a third minus the gap */
-    list-style: none; /* Remove default bullet points */
-    margin-bottom: 10px; /* Add spacing between rows */
-  }
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1%; /* Adjust spacing between items */
+}
+
+.three-columns li {
+  flex: 1 1 calc(33% - 1%); /* Set width to a third minus the gap */
+  list-style: disc; /* Add bullet points */
+  font-size: 0.8em; /* Decrease font size */
+  margin-left: 10px; /* Indent the bullet points slightly */
+  margin-bottom: 10px; /* Add spacing between rows */
+}
 </style>
