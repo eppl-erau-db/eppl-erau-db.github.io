@@ -126,14 +126,15 @@ redirect_from:
   .three-columns {
   display: flex;
   flex-wrap: wrap;
-  gap: 1%; /* Adjust spacing between items */
+  gap: 10px; /* Reduced gap for better spacing */
 }
 
 .three-columns li {
-  flex: 1 1 calc(33% - 1%); /* Set width to a third minus the gap */
+  flex: 1 1 calc(33.333% - 10px); /* Precisely one-third minus the gap */
   list-style: disc; /* Add bullet points */
-  font-size: 0.8em; /* Decrease font size */
-  margin-left: 10px; /* Indent the bullet points slightly */
+  font-size: 0.9em; /* Decrease font size */
+  margin-left: 20px; /* Indent the bullet points slightly */
   margin-bottom: 10px; /* Add spacing between rows */
 }
+
 </style>
