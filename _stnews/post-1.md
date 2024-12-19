@@ -1,10 +1,7 @@
 ---
 title: "Interest Form"
 collection: stnews
-category: survey
-permalink: /stnews/surveyPost
-excerpt: "Short description of post number 1<br/><img src='https://forms.gle/uyYakmsEidXg5oZt9'>"
-venue: 'survey'
+excerpt: "Add '>"
 ---
 https://forms.gle/uyYakmsEidXg5oZt9
 

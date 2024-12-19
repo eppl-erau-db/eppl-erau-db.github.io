@@ -82,15 +82,6 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
-#n Science and Technology News Category - The following lists the stnews categories and their headings
-stnews_category:
-  survey:
-    title: 'Interest Form'
-  robotics:
-    title: 'Robotics'
-  aerospace:
-    title: 'Aerospace'
-
 # People Category - The following lists the people categories and their headings
 people_category:
   faculty:
