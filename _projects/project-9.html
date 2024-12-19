@@ -1,0 +1,37 @@
+---
+title: "SEAL"
+excerpt: "An Autonomous Robot for a Sustainable Environment"
+collection: projects
+---
+
+<div class="seal">
+    <h2>Description</h2>
+
+    <p>
+        SEAL, or Sustainable Environment Autonomous Litter-cleaner, is a fully autonomous and all-terrain waste-sifting robot that sorts through sand and dirt in pursuit of garbage. Like other existing waste-cleaning robots, like 4Ocean’s BeBot, SEAL drives on tracks, and sends the sorted garbage to a storage compartment on board. However, SEAL differs from currently existing models in that it will be fully autonomous. This means it can detect, approach, and pick up all garbage that it sees without any human input. It does this by pairing the use of an Intel RealSense camera, driving motors, and LiDar sensor with ROS2 (Robot Operating System) running NAV2 (allows the SEAL to navigate to a place in the best way), YOLOv11 (for real time AI camera object detection), and SLAM which is Simultaneous localization and mapping (program that allows the robot to localize where it is and create a map of its environment). Because of these features, SEAL also has the potential to empty itself into a designated drop-off zone and dock at a charging dock, further removing human involvement from the equation. Overall, the implementation of such a helper as SEAL would drastically improve the cleanliness of beaches and bring humans another step closer to cleaning their mess.
+    </p>
+
+    <h2>Links</h2>
+
+    <ul class="seal_links">
+        <li><a href="https://commons.erau.edu/sustainability-conference/2024/poster/12/s" target="_blank">Sustainability Conference Posting</a></li>
+    </ul>
+
+    <h2>Media</h2>
+
+    <div class="seal-image-1">
+        <img src="/images/sustain_conf_seal.jpg" alt="  SEAL 1" style="width:70%; max-width:800px; margin:auto; display:block;" />
+        <p class="caption">Max and Andy with their poster</p>
+    </div>
+
+</div>
+
+<style>
+    .seal { font-family: Arial, sans-serif; line-height: 1.6; }
+    .seal-image-1 img { border: 1px solid #ddd; border-radius: 4px; }
+    .caption { text-align: center; font-style: italic; font-size: 0.9em; margin-top: 5px; }
+    .seal_links { list-style-type: none; padding: 0; }
+    .seal_links li { margin: 5px 0; }
+    .seal_links a { text-decoration: none; color: #0066cc; }
+    .seal_links a:hover { text-decoration: underline; }
+</style>

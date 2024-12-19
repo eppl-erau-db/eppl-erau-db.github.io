@@ -7,7 +7,7 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.labnews %}
+{% assign sorted_posts = site.labnews | sort: 'name' %}
+{% for post in sorted_posts reversed %}
   {% include archive-single.html %}
 {% endfor %}
-

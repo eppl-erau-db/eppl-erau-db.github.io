@@ -1,11 +1,11 @@
 ---
-title: "Dylan Ballback"
+title: "Andy Garcia"
 collection: people
-category: former
+category: under
 excerpt: "<div style='display: flex; align-items: center;'>
             <img src='/images/bio-photo.jpg' style='border: 2px solid #ccc; border-radius: 10px; width: 150px; margin-right: 1rem;'>
             <div>
-              <em>Former Principal Investigator</em><br/>
+              <em>Principal Investigator</em><br/>
               College of Engineering<br/>
               Mechanical Engineering Department, ERAU<br/>
               B.S. - Mechnical Engineering
@@ -13,4 +13,4 @@ excerpt: "<div style='display: flex; align-items: center;'>
           </div>"
 ---
 
-A description of Dylan coming soon!
+A description of Andy coming soon!
