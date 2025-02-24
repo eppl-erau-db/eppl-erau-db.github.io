@@ -2,15 +2,8 @@
 title: "Justin Hartland"
 collection: people
 category: under
-excerpt: "<div style='display: flex; align-items: center;'>
-            <img src='/images/hartland.jpg' style='border: 2px solid #ccc; border-radius: 10px; width: 150px; margin-right: 1rem;'>
-            <div>
-              <em>Principal Investigator</em><br/>
-              College of Engineering<br/>
-              Aerospace Engineering Department, ERAU<br/>
-              B.S. - Aerospace Engineering
-            </div>
-          </div>"
+image: "/images/hartland.jpg"
+role: "Principal Investigator"
+department: "College of Engineering, Aerospace Engineering Department, ERAU"
+degree: "B.S. - Aerospace Engineering"
 ---
-
-A description of Justin coming soon!

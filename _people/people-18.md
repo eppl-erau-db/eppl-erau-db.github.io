@@ -2,15 +2,8 @@
 title: "Andy Garcia"
 collection: people
 category: under
-excerpt: "<div style='display: flex; align-items: center;'>
-            <img src='/images/bio-photo.jpg' style='border: 2px solid #ccc; border-radius: 10px; width: 150px; margin-right: 1rem;'>
-            <div>
-              <em>Principal Investigator</em><br/>
-              College of Engineering<br/>
-              Mechanical Engineering Department, ERAU<br/>
-              B.S. - Mechnical Engineering
-            </div>
-          </div>"
+image: "/images/bio-photo.jpg"
+role: "Lab Member"
+department: "College of Engineering, Mechnical Engineering Department, ERAU"
+degree: "B.S. - Mechnical Engineering"
 ---
-
-A description of Andy coming soon!

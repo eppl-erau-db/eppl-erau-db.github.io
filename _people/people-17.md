@@ -2,15 +2,8 @@
 title: "Kyle Fox"
 collection: people
 category: former
-excerpt: "<div style='display: flex; align-items: center;'>
-            <img src='/images/bio-photo.jpg' style='border: 2px solid #ccc; border-radius: 10px; width: 150px; margin-right: 1rem;'>
-            <div>
-              <em>Former Principal Investigator</em><br/>
-              College of Engineering<br/>
-              Electrical Engineering and Computer Science Department, ERAU<br/>
-              B.S. - Electrical Engineering
-            </div>
-          </div>"
+image: "/images/bio-photo.jpg"
+role: "Principal Investigator"
+department: "College of Engineering, Electrical Engineering and Computer Science Department, ERAU"
+degree: "B.S. - Electrical Engineering"
 ---
-
-A description of Kyle coming soon!
