@@ -36,7 +36,7 @@ The following is a list of things that have to get done:
 1. Fix the color of the links in project pages to the same as the about page. 
 1. Add a post about something interesting this semester. 
 1. Add a post about a new technology.
-
+1. Add people's homepages.
 ---
 <div align="center">
     
