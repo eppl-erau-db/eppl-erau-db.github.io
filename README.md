@@ -25,6 +25,22 @@ When you are initially working your website, it is very useful to be able to pre
 1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
 1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change.
 
+The exact commands in the first terminal:
+```bash
+git clone https://github.com/eppl-erau-db/eppl-erau-db.github.io
+cd eppl-erau-db.github.io
+sudo apt install ruby-dev ruby-bundler nodejs
+bundle install
+jekyll serve -l -H localhost
+```
+
+Open another terminal, and run:
+```bash
+cd eppl-erau-db.github.io
+sudo apt install code
+code .
+```
+
 If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
 
 ## TO-DO
