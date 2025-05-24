@@ -13,7 +13,7 @@ Active EPPL members are welcome to contribute to the lab website. Note that as s
    
     If you are unaware, you can use the following commands to clone the repo, get into its directory, and edit using VS Code:
     ```bash
-    git clone https://github.com/eppl-erau-db/eppl-erau-db.github.io.git'
+    git clone https://github.com/eppl-erau-db/eppl-erau-db.github.io.git
     cd eppl-erau-db.github.io.git
     code .
     ```
