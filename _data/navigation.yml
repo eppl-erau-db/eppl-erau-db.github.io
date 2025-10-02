@@ -8,9 +8,6 @@ main:
   - title: "Projects"
     url: /projects/    
 
-  - title: "Lab News"
-    url: /labnews/
-
   - title: "Publications"
     url: /publications/
 
@@ -20,6 +17,4 @@ main:
   - title: "Partners"
     url: /partners/
 
-  - title: "Featured Science & Tech"
-    url: /stnews/
         

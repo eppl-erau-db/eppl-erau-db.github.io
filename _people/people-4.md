@@ -1,7 +1,7 @@
 ---
 title: "Gabriel Rodriguez"
 collection: people
-category: under
+category: former
 image: "/images/rodriguez.jpg"
 role: "Principal Investigator"
 department: "College of Engineering/Arts & Sceicnes, Aerospace Engineering/Engineering Physics Department, ERAU"
